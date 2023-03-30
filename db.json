@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "text": "Daily Chorus",
+      "day": "2023-03-31",
+      "reminder": false,
+      "id": 2
+    },
+    {
+      "text": "Vacation Packing",
+      "day": "2023-04-05",
+      "reminder": false,
+      "id": 3
+    },
+    {
+      "text": "Assignment Submission",
+      "day": "2023-04-01",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Grocery Shopping",
+      "day": "2023-03-31",
+      "reminder": true,
+      "id": 5
+    }
+  ]
+}
